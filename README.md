@@ -55,8 +55,8 @@ The algorithm is as follows:
 
 ## VALUE ITERATION FUNCTION
 ```
-Developed by: Bairav Skandan Loha
-Reg no: 212221230010
+Developed by: A joans jay authers 
+Reg no: 212221240019
 ```
 
 ```py
